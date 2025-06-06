@@ -84,7 +84,7 @@ Extra Trees demonstrated better generalization, especially for younger speakers 
 
 ## 👥 Authors
 
-- Alice Banaudi — [LinkedIn](https://www.linkedin.com/in/alicebanaudi)
+- Alice Banaudi — [LinkedIn](https://www.linkedin.com/in/alice-banaudi-57b9372a8/)
 - Carla Finocchiaro — [LinkedIn](https://www.linkedin.com/in/carla-finocchiaro-3747a5271/)
 
 ## 📄 License
